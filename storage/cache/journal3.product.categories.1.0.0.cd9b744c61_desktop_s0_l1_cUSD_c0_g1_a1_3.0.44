@@ -1,0 +1,1778 @@
+<?php $val = array (
+  20 => 
+  array (
+    'category_id' => '20',
+    'parent_id' => '0',
+    'title' => 'Desktops',
+    'items' => 
+    array (
+      26 => 
+      array (
+        'category_id' => '26',
+        'parent_id' => '20',
+        'title' => 'PC',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c26',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=20_26',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      27 => 
+      array (
+        'category_id' => '27',
+        'parent_id' => '20',
+        'title' => 'Mac',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c27',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=20_27',
+          'total' => '1',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+    ),
+    'classes' => 
+    array (
+      0 => 'menu-item menu-item-c20',
+      'dropdown' => 
+      array (
+        26 => 
+        array (
+          'category_id' => '26',
+          'parent_id' => '20',
+          'title' => 'PC',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c26',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=20_26',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        27 => 
+        array (
+          'category_id' => '27',
+          'parent_id' => '20',
+          'title' => 'Mac',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c27',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=20_27',
+            'total' => '1',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+      ),
+    ),
+    'link' => 
+    array (
+      'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=20',
+      'total' => '12',
+      'classes' => 
+      array (
+      ),
+    ),
+  ),
+  18 => 
+  array (
+    'category_id' => '18',
+    'parent_id' => '0',
+    'title' => 'Laptops &amp; Notebooks',
+    'items' => 
+    array (
+      46 => 
+      array (
+        'category_id' => '46',
+        'parent_id' => '18',
+        'title' => 'Macs',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c46',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=18_46',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      45 => 
+      array (
+        'category_id' => '45',
+        'parent_id' => '18',
+        'title' => 'Windows',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c45',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=18_45',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+    ),
+    'classes' => 
+    array (
+      0 => 'menu-item menu-item-c18',
+      'dropdown' => 
+      array (
+        46 => 
+        array (
+          'category_id' => '46',
+          'parent_id' => '18',
+          'title' => 'Macs',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c46',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=18_46',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        45 => 
+        array (
+          'category_id' => '45',
+          'parent_id' => '18',
+          'title' => 'Windows',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c45',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=18_45',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+      ),
+    ),
+    'link' => 
+    array (
+      'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=18',
+      'total' => '5',
+      'classes' => 
+      array (
+      ),
+    ),
+  ),
+  25 => 
+  array (
+    'category_id' => '25',
+    'parent_id' => '0',
+    'title' => 'Components',
+    'items' => 
+    array (
+      29 => 
+      array (
+        'category_id' => '29',
+        'parent_id' => '25',
+        'title' => 'Mice and Trackballs',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c29',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=25_29',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      28 => 
+      array (
+        'category_id' => '28',
+        'parent_id' => '25',
+        'title' => 'Monitors',
+        'items' => 
+        array (
+          35 => 
+          array (
+            'category_id' => '35',
+            'parent_id' => '28',
+            'title' => 'test 1',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c35',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=25_28_35',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          36 => 
+          array (
+            'category_id' => '36',
+            'parent_id' => '28',
+            'title' => 'test 2',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c36',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=25_28_36',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c28',
+          'dropdown' => 
+          array (
+            35 => 
+            array (
+              'category_id' => '35',
+              'parent_id' => '28',
+              'title' => 'test 1',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c35',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=25_28_35',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+            36 => 
+            array (
+              'category_id' => '36',
+              'parent_id' => '28',
+              'title' => 'test 2',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c36',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=25_28_36',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=25_28',
+          'total' => '2',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      30 => 
+      array (
+        'category_id' => '30',
+        'parent_id' => '25',
+        'title' => 'Printers',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c30',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=25_30',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      31 => 
+      array (
+        'category_id' => '31',
+        'parent_id' => '25',
+        'title' => 'Scanners',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c31',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=25_31',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      32 => 
+      array (
+        'category_id' => '32',
+        'parent_id' => '25',
+        'title' => 'Web Cameras',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c32',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=25_32',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+    ),
+    'classes' => 
+    array (
+      0 => 'menu-item menu-item-c25',
+      'dropdown' => 
+      array (
+        29 => 
+        array (
+          'category_id' => '29',
+          'parent_id' => '25',
+          'title' => 'Mice and Trackballs',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c29',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=25_29',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        28 => 
+        array (
+          'category_id' => '28',
+          'parent_id' => '25',
+          'title' => 'Monitors',
+          'items' => 
+          array (
+            35 => 
+            array (
+              'category_id' => '35',
+              'parent_id' => '28',
+              'title' => 'test 1',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c35',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=25_28_35',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+            36 => 
+            array (
+              'category_id' => '36',
+              'parent_id' => '28',
+              'title' => 'test 2',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c36',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=25_28_36',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c28',
+            'dropdown' => 
+            array (
+              35 => 
+              array (
+                'category_id' => '35',
+                'parent_id' => '28',
+                'title' => 'test 1',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c35',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=25_28_35',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              36 => 
+              array (
+                'category_id' => '36',
+                'parent_id' => '28',
+                'title' => 'test 2',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c36',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=25_28_36',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=25_28',
+            'total' => '2',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        30 => 
+        array (
+          'category_id' => '30',
+          'parent_id' => '25',
+          'title' => 'Printers',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c30',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=25_30',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        31 => 
+        array (
+          'category_id' => '31',
+          'parent_id' => '25',
+          'title' => 'Scanners',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c31',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=25_31',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        32 => 
+        array (
+          'category_id' => '32',
+          'parent_id' => '25',
+          'title' => 'Web Cameras',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c32',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=25_32',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+      ),
+    ),
+    'link' => 
+    array (
+      'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=25',
+      'total' => '0',
+      'classes' => 
+      array (
+      ),
+    ),
+  ),
+  57 => 
+  array (
+    'category_id' => '57',
+    'parent_id' => '0',
+    'title' => 'Tablets',
+    'items' => 
+    array (
+    ),
+    'classes' => 
+    array (
+      0 => 'menu-item menu-item-c57',
+      'dropdown' => 
+      array (
+      ),
+    ),
+    'link' => 
+    array (
+      'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=57',
+      'total' => '1',
+      'classes' => 
+      array (
+      ),
+    ),
+  ),
+  17 => 
+  array (
+    'category_id' => '17',
+    'parent_id' => '0',
+    'title' => 'Software',
+    'items' => 
+    array (
+    ),
+    'classes' => 
+    array (
+      0 => 'menu-item menu-item-c17',
+      'dropdown' => 
+      array (
+      ),
+    ),
+    'link' => 
+    array (
+      'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=17',
+      'total' => '0',
+      'classes' => 
+      array (
+      ),
+    ),
+  ),
+  24 => 
+  array (
+    'category_id' => '24',
+    'parent_id' => '0',
+    'title' => 'Phones &amp; PDAs',
+    'items' => 
+    array (
+    ),
+    'classes' => 
+    array (
+      0 => 'menu-item menu-item-c24',
+      'dropdown' => 
+      array (
+      ),
+    ),
+    'link' => 
+    array (
+      'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=24',
+      'total' => '3',
+      'classes' => 
+      array (
+      ),
+    ),
+  ),
+  33 => 
+  array (
+    'category_id' => '33',
+    'parent_id' => '0',
+    'title' => 'Cameras',
+    'items' => 
+    array (
+    ),
+    'classes' => 
+    array (
+      0 => 'menu-item menu-item-c33',
+      'dropdown' => 
+      array (
+      ),
+    ),
+    'link' => 
+    array (
+      'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=33',
+      'total' => '2',
+      'classes' => 
+      array (
+      ),
+    ),
+  ),
+  34 => 
+  array (
+    'category_id' => '34',
+    'parent_id' => '0',
+    'title' => 'MP3 Players',
+    'items' => 
+    array (
+      43 => 
+      array (
+        'category_id' => '43',
+        'parent_id' => '34',
+        'title' => 'test 11',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c43',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_43',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      44 => 
+      array (
+        'category_id' => '44',
+        'parent_id' => '34',
+        'title' => 'test 12',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c44',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_44',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      47 => 
+      array (
+        'category_id' => '47',
+        'parent_id' => '34',
+        'title' => 'test 15',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c47',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_47',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      48 => 
+      array (
+        'category_id' => '48',
+        'parent_id' => '34',
+        'title' => 'test 16',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c48',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_48',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      49 => 
+      array (
+        'category_id' => '49',
+        'parent_id' => '34',
+        'title' => 'test 17',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c49',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_49',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      50 => 
+      array (
+        'category_id' => '50',
+        'parent_id' => '34',
+        'title' => 'test 18',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c50',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_50',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      51 => 
+      array (
+        'category_id' => '51',
+        'parent_id' => '34',
+        'title' => 'test 19',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c51',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_51',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      52 => 
+      array (
+        'category_id' => '52',
+        'parent_id' => '34',
+        'title' => 'test 20',
+        'items' => 
+        array (
+          58 => 
+          array (
+            'category_id' => '58',
+            'parent_id' => '52',
+            'title' => 'test 25',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c58',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_52_58',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c52',
+          'dropdown' => 
+          array (
+            58 => 
+            array (
+              'category_id' => '58',
+              'parent_id' => '52',
+              'title' => 'test 25',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c58',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_52_58',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_52',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      53 => 
+      array (
+        'category_id' => '53',
+        'parent_id' => '34',
+        'title' => 'test 21',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c53',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_53',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      54 => 
+      array (
+        'category_id' => '54',
+        'parent_id' => '34',
+        'title' => 'test 22',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c54',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_54',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      55 => 
+      array (
+        'category_id' => '55',
+        'parent_id' => '34',
+        'title' => 'test 23',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c55',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_55',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      56 => 
+      array (
+        'category_id' => '56',
+        'parent_id' => '34',
+        'title' => 'test 24',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c56',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_56',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      38 => 
+      array (
+        'category_id' => '38',
+        'parent_id' => '34',
+        'title' => 'test 4',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c38',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_38',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      37 => 
+      array (
+        'category_id' => '37',
+        'parent_id' => '34',
+        'title' => 'test 5',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c37',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_37',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      39 => 
+      array (
+        'category_id' => '39',
+        'parent_id' => '34',
+        'title' => 'test 6',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c39',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_39',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      40 => 
+      array (
+        'category_id' => '40',
+        'parent_id' => '34',
+        'title' => 'test 7',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c40',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_40',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      41 => 
+      array (
+        'category_id' => '41',
+        'parent_id' => '34',
+        'title' => 'test 8',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c41',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_41',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      42 => 
+      array (
+        'category_id' => '42',
+        'parent_id' => '34',
+        'title' => 'test 9',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c42',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_42',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+    ),
+    'classes' => 
+    array (
+      0 => 'menu-item menu-item-c34',
+      'dropdown' => 
+      array (
+        43 => 
+        array (
+          'category_id' => '43',
+          'parent_id' => '34',
+          'title' => 'test 11',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c43',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_43',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        44 => 
+        array (
+          'category_id' => '44',
+          'parent_id' => '34',
+          'title' => 'test 12',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c44',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_44',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        47 => 
+        array (
+          'category_id' => '47',
+          'parent_id' => '34',
+          'title' => 'test 15',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c47',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_47',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        48 => 
+        array (
+          'category_id' => '48',
+          'parent_id' => '34',
+          'title' => 'test 16',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c48',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_48',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        49 => 
+        array (
+          'category_id' => '49',
+          'parent_id' => '34',
+          'title' => 'test 17',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c49',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_49',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        50 => 
+        array (
+          'category_id' => '50',
+          'parent_id' => '34',
+          'title' => 'test 18',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c50',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_50',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        51 => 
+        array (
+          'category_id' => '51',
+          'parent_id' => '34',
+          'title' => 'test 19',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c51',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_51',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        52 => 
+        array (
+          'category_id' => '52',
+          'parent_id' => '34',
+          'title' => 'test 20',
+          'items' => 
+          array (
+            58 => 
+            array (
+              'category_id' => '58',
+              'parent_id' => '52',
+              'title' => 'test 25',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c58',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_52_58',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c52',
+            'dropdown' => 
+            array (
+              58 => 
+              array (
+                'category_id' => '58',
+                'parent_id' => '52',
+                'title' => 'test 25',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c58',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_52_58',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_52',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        53 => 
+        array (
+          'category_id' => '53',
+          'parent_id' => '34',
+          'title' => 'test 21',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c53',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_53',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        54 => 
+        array (
+          'category_id' => '54',
+          'parent_id' => '34',
+          'title' => 'test 22',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c54',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_54',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        55 => 
+        array (
+          'category_id' => '55',
+          'parent_id' => '34',
+          'title' => 'test 23',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c55',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_55',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        56 => 
+        array (
+          'category_id' => '56',
+          'parent_id' => '34',
+          'title' => 'test 24',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c56',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_56',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        38 => 
+        array (
+          'category_id' => '38',
+          'parent_id' => '34',
+          'title' => 'test 4',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c38',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_38',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        37 => 
+        array (
+          'category_id' => '37',
+          'parent_id' => '34',
+          'title' => 'test 5',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c37',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_37',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        39 => 
+        array (
+          'category_id' => '39',
+          'parent_id' => '34',
+          'title' => 'test 6',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c39',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_39',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        40 => 
+        array (
+          'category_id' => '40',
+          'parent_id' => '34',
+          'title' => 'test 7',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c40',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_40',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        41 => 
+        array (
+          'category_id' => '41',
+          'parent_id' => '34',
+          'title' => 'test 8',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c41',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_41',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        42 => 
+        array (
+          'category_id' => '42',
+          'parent_id' => '34',
+          'title' => 'test 9',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c42',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34_42',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+      ),
+    ),
+    'link' => 
+    array (
+      'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/category&amp;path=34',
+      'total' => '4',
+      'classes' => 
+      array (
+      ),
+    ),
+  ),
+);

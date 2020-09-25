@@ -1,0 +1,104 @@
+<?php $val = array (
+  'css' => '.module-catalog-119 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 2 * 0px) / 3 - 0.01px)}.module-catalog-119 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 3 - 0.01px)}.one-column #content .module-catalog-119 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 3 * 0px) / 4 - 0.01px)}.one-column #content .module-catalog-119 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 4 - 0.01px)}.two-column #content .module-catalog-119 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 2 * 0px) / 3 - 0.01px)}.two-column #content .module-catalog-119 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 3 - 0.01px)}.side-column .module-catalog-119 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.side-column .module-catalog-119 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.module-catalog-119  .item-content{padding:8px}.module-catalog-119  .catalog-title{padding-bottom:5px;border-width:0;border-bottom-width:1px;border-style:solid;border-color:rgba(223, 231, 247, 1)}.module-catalog-119 .catalog-title{margin-bottom:10px;font-family:\'Roboto\';font-weight:700;font-size:16px;color:rgba(56, 68, 79, 1);width:100%;margin-left:0;margin-right:auto;justify-content:flex-start;white-space:normal;overflow:visible;text-overflow:initial}.module-catalog-119
+.subitems{align-items:flex-start}.module-catalog-119 .subitem > a
+span{font-size:13px}.module-catalog-119 .subitem.view-more a
+span{font-size:12px;color:rgba(69, 82, 94, 1);text-decoration:underline}.module-catalog-119 .subitem.view-more a:hover
+span{color:rgba(0, 138, 221, 1)}.module-catalog-119 .subitem.view-more
+a{margin-left:5px}.module-catalog-119 .subitem.view-more a::before{content:none !important}.module-catalog-119 .subitem>a{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;padding-bottom:4px}.module-catalog-119 .subitem>a::before{content:\'\\e409\' !important;font-family:icomoon !important}.module-catalog-119 .catalog-image{margin-right:5px}.module-catalog-119 .item-assets{flex-direction:row}.module-catalog-119 .item-assets>a{max-width:40%;order:0}.module-catalog-119 .item-assets
+.subitems{width:60%}.module-catalog-119 .item-assets .catalog-image{display:block}@media (max-width: 760px){.module-catalog-119 .catalog-image{margin-right:0px;margin-bottom:10px}.module-catalog-119 .item-assets{flex-direction:column}.module-catalog-119 .item-assets>a{max-width:100%;order:0}.module-catalog-119 .item-assets
+.subitems{width:100%}.module-catalog-119 .item-assets .catalog-image{display:block}}@media (max-width: 470px){.module-catalog-119 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 1 * 0px) / 2 - 0.01px)}.module-catalog-119 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 2 - 0.01px)}}',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Roboto' => 
+      array (
+        700 => '700',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+    ),
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => '',
+    'images' => false,
+    'imageDimensions' => 
+    array (
+      'width' => 150,
+      'height' => 150,
+      'resize' => 'fill',
+    ),
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 3,
+          'spacing' => 0,
+        ),
+        470 => 
+        array (
+          'spacing' => 0,
+          'items' => 2,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 4,
+          'spacing' => 0,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 3,
+          'spacing' => 0,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+    ),
+    'carousel' => false,
+    'viewMoreText' => 'View More',
+    'status' => true,
+    'id' => 'catalog-5f64d02526ab7',
+    'module_id' => 119,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-catalog',
+      2 => 'module-catalog-119',
+      'carousel-mode' => false,
+      'image-on-hover' => true,
+    ),
+    'carouselOptions' => 
+    array (
+      'speed' => 0,
+      'autoplay' => false,
+      'pauseOnHover' => false,
+      'loop' => false,
+    ),
+    'items' => 
+    array (
+    ),
+  ),
+);

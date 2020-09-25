@@ -1,0 +1,601 @@
+<?php $val = array (
+  'settings' => 
+  array (
+    'column_left' => 
+    array (
+      'rows' => 
+      array (
+      ),
+      'grid_classes' => 
+      array (
+        0 => 'grid-rows',
+      ),
+    ),
+    'column_right' => 
+    array (
+      'rows' => 
+      array (
+      ),
+      'grid_classes' => 
+      array (
+        0 => 'grid-rows',
+      ),
+    ),
+    'content_top' => 
+    array (
+      'rows' => 
+      array (
+      ),
+      'grid_classes' => 
+      array (
+        0 => 'grid-rows',
+      ),
+    ),
+    'content_bottom' => 
+    array (
+      'rows' => 
+      array (
+      ),
+      'grid_classes' => 
+      array (
+        0 => 'grid-rows',
+      ),
+    ),
+    'top' => 
+    array (
+      'rows' => 
+      array (
+        1 => 
+        array (
+          'videoBgStatus' => false,
+          'videoBg' => '',
+          'videoInline' => false,
+          'waveStatus' => false,
+          'waveDirection' => '5',
+          'wave2Status' => false,
+          'wave2Direction' => '5',
+          'classes' => 
+          array (
+            0 => 'grid-row',
+            1 => 'grid-row-top-1',
+          ),
+          'columns' => 
+          array (
+            1 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-top-1-1',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-top-1-1-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '242',
+                    'name' => 'Slider Top Home',
+                    'type' => 'master_slider',
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        2 => 
+        array (
+          'videoBgStatus' => false,
+          'videoBg' => '',
+          'videoInline' => false,
+          'waveStatus' => true,
+          'waveDirection' => '7',
+          'wave2Status' => false,
+          'wave2Direction' => '5',
+          'classes' => 
+          array (
+            0 => 'grid-row',
+            1 => 'grid-row-top-2',
+          ),
+          'columns' => 
+          array (
+            1 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-top-2-1',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-top-2-1-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '248',
+                    'name' => 'Banners Grid',
+                    'type' => 'grid',
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        3 => 
+        array (
+          'videoBgStatus' => false,
+          'videoBg' => '',
+          'videoInline' => false,
+          'waveStatus' => false,
+          'waveDirection' => '5',
+          'wave2Status' => false,
+          'wave2Direction' => '5',
+          'classes' => 
+          array (
+            0 => 'grid-row',
+            1 => 'grid-row-top-3',
+          ),
+          'columns' => 
+          array (
+            1 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-top-3-1',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-top-3-1-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '263',
+                    'name' => 'Free Shipping Qualifier Copy',
+                    'type' => 'info_blocks',
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        4 => 
+        array (
+          'videoBgStatus' => false,
+          'videoBg' => '',
+          'videoInline' => false,
+          'waveStatus' => false,
+          'waveDirection' => '5',
+          'wave2Status' => false,
+          'wave2Direction' => '5',
+          'classes' => 
+          array (
+            0 => 'grid-row',
+            1 => 'grid-row-top-4',
+          ),
+          'columns' => 
+          array (
+            1 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-top-4-1',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-top-4-1-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '27',
+                    'name' => 'Featured - Home Page',
+                    'type' => 'products',
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        5 => 
+        array (
+          'videoBgStatus' => false,
+          'videoBg' => '',
+          'videoInline' => false,
+          'waveStatus' => false,
+          'waveDirection' => '5',
+          'wave2Status' => false,
+          'wave2Direction' => '5',
+          'classes' => 
+          array (
+            0 => 'grid-row',
+            1 => 'grid-row-top-5',
+          ),
+          'columns' => 
+          array (
+            1 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-top-5-1',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-top-5-1-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '261',
+                    'name' => 'Main Menu Block Copy',
+                    'type' => 'blocks',
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+      ),
+      'grid_classes' => 
+      array (
+        0 => 'grid-rows',
+      ),
+    ),
+    'bottom' => 
+    array (
+      'rows' => 
+      array (
+        1 => 
+        array (
+          'videoBgStatus' => false,
+          'videoBg' => '',
+          'videoInline' => false,
+          'waveStatus' => false,
+          'waveDirection' => '5',
+          'wave2Status' => false,
+          'wave2Direction' => '5',
+          'classes' => 
+          array (
+            0 => 'grid-row',
+            1 => 'grid-row-bottom-1',
+          ),
+          'columns' => 
+          array (
+            1 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-bottom-1-1',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-bottom-1-1-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '145',
+                    'name' => 'Products Title',
+                    'type' => 'title',
+                  ),
+                ),
+              ),
+            ),
+            2 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-bottom-1-2',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-bottom-1-2-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '249',
+                    'name' => 'Catalog Left Image Copy',
+                    'type' => 'catalog',
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        2 => 
+        array (
+          'videoBgStatus' => false,
+          'videoBg' => '',
+          'videoInline' => false,
+          'waveStatus' => false,
+          'waveDirection' => '5',
+          'wave2Status' => false,
+          'wave2Direction' => '5',
+          'classes' => 
+          array (
+            0 => 'grid-row',
+            1 => 'grid-row-bottom-2',
+          ),
+          'columns' => 
+          array (
+            1 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-bottom-2-1',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-bottom-2-1-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '143',
+                    'name' => 'Page Title',
+                    'type' => 'title',
+                  ),
+                ),
+              ),
+            ),
+            2 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-bottom-2-2',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-bottom-2-2-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '38',
+                    'name' => 'Brands Module',
+                    'type' => 'manufacturers',
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        3 => 
+        array (
+          'videoBgStatus' => false,
+          'videoBg' => '',
+          'videoInline' => false,
+          'waveStatus' => false,
+          'waveDirection' => '5',
+          'wave2Status' => false,
+          'wave2Direction' => '5',
+          'classes' => 
+          array (
+            0 => 'grid-row',
+            1 => 'grid-row-bottom-3',
+          ),
+          'columns' => 
+          array (
+            1 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-bottom-3-1',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-bottom-3-1-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '162',
+                    'name' => 'Catalog Title',
+                    'type' => 'title',
+                  ),
+                ),
+              ),
+            ),
+            2 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-bottom-3-2',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-bottom-3-2-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '40',
+                    'name' => 'New Blog Posts',
+                    'type' => 'blog_posts',
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        4 => 
+        array (
+          'videoBgStatus' => false,
+          'videoBg' => '',
+          'videoInline' => false,
+          'waveStatus' => false,
+          'waveDirection' => '5',
+          'wave2Status' => false,
+          'wave2Direction' => '5',
+          'classes' => 
+          array (
+            0 => 'grid-row',
+            1 => 'grid-row-bottom-4',
+          ),
+          'columns' => 
+          array (
+            1 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-bottom-4-1',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-bottom-4-1-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '175',
+                    'name' => 'About Us',
+                    'type' => 'blocks',
+                  ),
+                ),
+              ),
+            ),
+            2 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-bottom-4-2',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-bottom-4-2-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '180',
+                    'name' => 'Testimonials',
+                    'type' => 'testimonials',
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+      ),
+      'grid_classes' => 
+      array (
+        0 => 'grid-rows',
+      ),
+    ),
+    'header_top' => 
+    array (
+      'rows' => 
+      array (
+      ),
+      'grid_classes' => 
+      array (
+        0 => 'grid-rows',
+      ),
+    ),
+    'footer_top' => 
+    array (
+      'rows' => 
+      array (
+      ),
+      'grid_classes' => 
+      array (
+        0 => 'grid-rows',
+      ),
+    ),
+    'footer_bottom' => 
+    array (
+      'rows' => 
+      array (
+      ),
+      'grid_classes' => 
+      array (
+        0 => 'grid-rows',
+      ),
+    ),
+    'global' => 
+    array (
+      0 => 
+      array (
+        'module_id' => '127',
+        'module_type' => 'bottom_menu',
+      ),
+    ),
+  ),
+  'php' => 
+  array (
+  ),
+  'js' => 
+  array (
+  ),
+  'fonts' => 
+  array (
+  ),
+  'css' => '.grid-row-top-1::before{display:block;left:0;width:100vw}.grid-row-top-1>.grid-cols{max-width:100% !important}.grid-row-top-1 .wave-top{display:block}.grid-row-top-1 .wave-bottom{display:block}.grid-col-top-1-1{width:100%}.grid-col-top-1-1 .grid-items{justify-content:flex-start}.grid-item-top-1-1-1{width:100%}.grid-row-top-2{background:rgba(255, 255, 255, 1);padding:10px;padding-bottom:40px;box-shadow:0 -5px 20px -5px rgba(0,0,0,0.2)}.grid-row-top-2::before{display:block;background:rgba(255, 255, 255, 1);left:0;width:100vw;transform:translate3d(0,0,0) rotate(-2deg) skew(-2deg);;top:-1.75vw}.grid-row-top-2 .wave-top{display:block}.grid-row-top-2 .wave
+path{fill:rgba(255, 255, 255, 1)}.grid-row-top-2 .wave-bottom{display:block}@media (max-width: 760px){.grid-row-top-2::before{transform:translate3d(0,0,0) rotate(0deg) skew(0deg);;top:0vw}}.grid-col-top-2-1{width:100%}.grid-col-top-2-1 .grid-items{justify-content:flex-start}.grid-item-top-2-1-1{width:100%}.grid-row-top-3{background:rgba(49,56,70,1);padding:20px}.grid-row-top-3::before{display:block;left:0;width:100vw}.grid-row-top-3 .wave-top{display:block}.grid-row-top-3 .wave-bottom{display:block}.grid-col-top-3-1{width:100%}.grid-col-top-3-1 .grid-items{justify-content:flex-start}.grid-item-top-3-1-1{width:100%}.grid-row-top-4{background:rgba(245,245,245,1);padding:50px;padding-right:20px;padding-bottom:80px;padding-left:20px}.grid-row-top-4::before{display:block;left:0;width:100vw}.grid-row-top-4 .wave-top{display:block}.grid-row-top-4 .wave-bottom{display:block}@media (max-width: 760px){.grid-row-top-4{padding:20px;padding-top:50px;padding-bottom:50px}}.grid-col-top-4-1{width:100%}.grid-col-top-4-1 .grid-items{justify-content:flex-start}.grid-item-top-4-1-1{width:100%}.grid-row-top-5{background-image:url(\'http://localhost:8888/www.sacarujewels.com/image/cache/catalog/journal3/people/andrew-neel-369701-unsplash-1500x1000.jpg\');background-position:center center;background-attachment:fixed;background-repeat:no-repeat;background-size:cover;padding:20px;padding-top:120px;padding-bottom:120px}.grid-row-top-5::before{content:\'\';display:block;background:rgba(0, 0, 0, 0.6);left:0;width:100vw}.grid-row-top-5 .wave-top{display:block}.grid-row-top-5 .wave-bottom{display:block}@media (max-width: 760px){.grid-row-top-5{padding-top:80px;padding-bottom:80px}}.grid-col-top-5-1{width:100%}.grid-col-top-5-1 .grid-items{justify-content:flex-start}.grid-item-top-5-1-1{width:100%}.grid-row-bottom-1{background:rgba(255,255,255,1);padding:20px;padding-top:60px;padding-bottom:80px}.grid-row-bottom-1::before{display:block;left:0;width:100vw}.grid-row-bottom-1 .wave-top{display:block}.grid-row-bottom-1 .wave-bottom{display:block}@media (max-width: 760px){.grid-row-bottom-1{padding:10px;padding-top:50px;padding-bottom:50px}}.grid-col-bottom-1-1{width:100%}.grid-col-bottom-1-1 .grid-items{justify-content:flex-start}.grid-item-bottom-1-1-1{width:100%}.grid-col-bottom-1-2{width:100%}.grid-col-bottom-1-2 .grid-items{justify-content:flex-start}.grid-item-bottom-1-2-1{width:100%}.grid-row-bottom-2{background:rgba(255,255,255,1);padding:20px;padding-bottom:50px}.grid-row-bottom-2::before{display:block;left:0;width:100vw}.grid-row-bottom-2 .wave-top{display:block}.grid-row-bottom-2 .wave-bottom{display:block}.grid-col-bottom-2-1{width:100%}.grid-col-bottom-2-1 .grid-items{justify-content:flex-start}.grid-item-bottom-2-1-1{width:100%}.grid-col-bottom-2-2{width:100%}.grid-col-bottom-2-2 .grid-items{justify-content:flex-start}.grid-item-bottom-2-2-1{width:100%}.grid-row-bottom-3{background:rgba(245,245,245,1);padding:40px;padding-right:20px;padding-bottom:60px;padding-left:20px}.grid-row-bottom-3::before{display:block;left:0;width:100vw}.grid-row-bottom-3 .wave-top{display:block}.grid-row-bottom-3 .wave-bottom{display:block}@media (max-width: 760px){.grid-row-bottom-3{padding:20px;padding-top:50px;padding-bottom:50px}}.grid-col-bottom-3-1{width:100%}.grid-col-bottom-3-1 .grid-items{justify-content:flex-start}.grid-item-bottom-3-1-1{width:100%}.grid-col-bottom-3-2{width:100%}.grid-col-bottom-3-2 .grid-items{justify-content:flex-start}.grid-item-bottom-3-2-1{width:100%}.grid-row-bottom-4{background-image:url(\'http://localhost:8888/www.sacarujewels.com/image/cache/catalog/journal3/misc/low-poly-60-2000x1333.jpg\');background-position:center center;background-attachment:fixed;background-repeat:no-repeat;background-size:cover;padding:20px;padding-top:80px;padding-bottom:80px}.grid-row-bottom-4::before{content:\'\';display:block;background:rgba(221, 221, 221, 0.7);left:-50%;width:100%}.grid-row-bottom-4 .wave-top{display:block}.grid-row-bottom-4 .wave-bottom{display:block}@media (max-width: 760px){.grid-row-bottom-4{padding:0px}}.grid-col-bottom-4-1{width:50%;background:rgba(255, 255, 255, 1);padding:20px}.grid-col-bottom-4-1 .grid-items{justify-content:flex-start}@media (max-width: 1024px){.grid-col-bottom-4-1{width:100%}}.grid-item-bottom-4-1-1{width:100%}.grid-col-bottom-4-2{width:50%;background:rgba(245, 245, 245, 1);padding:20px}.grid-col-bottom-4-2 .grid-items{justify-content:center}@media (max-width: 1024px){.grid-col-bottom-4-2{width:100%}}.grid-item-bottom-4-2-1{width:100%}',
+);

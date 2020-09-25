@@ -1,0 +1,100 @@
+<?php $val = array (
+  'css' => '.module-info_blocks-263 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.module-info_blocks-263 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.one-column #content .module-info_blocks-263 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.one-column #content .module-info_blocks-263 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.two-column #content .module-info_blocks-263 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.two-column #content .module-info_blocks-263 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.side-column .module-info_blocks-263 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.side-column .module-info_blocks-263 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.module-info_blocks-263 .module-item .info-block{justify-content:center}.module-info_blocks-263 .info-block .info-block-title{font-size:15px;font-weight:700;display:block}.module-info_blocks-263 .info-block .info-block-text{font-size:13px;display:block}.module-info_blocks-263 .info-block{border-radius:3px;border-width:0;border-bottom-width:1px;border-style:solid;border-color:rgba(221, 221, 221, 1);display:flex;flex-direction:row;justify-content:flex-start;text-align:left}.module-info_blocks-263 .info-blocks:last-child .info-block{border-width:0;border-bottom-width:0px}.module-info_blocks-263 a.info-block:hover{box-shadow:0 5px 30px -5px rgba(0, 0, 0, 0.15)}.module-info_blocks-263 .info-block-content{display:flex}.module-info_blocks-263 .info-block::before{align-self:center}.module-info_blocks-263 .info-block-img{align-self:center}.module-info_blocks-263 .info-block::before, .module-info_blocks-263 .info-block-img{margin-right:10px}.module-info_blocks-263 .info-block .count-badge{display:none}.module-info_blocks-263 .module-item .info-block .info-block-title{font-size:14px;color:rgba(182, 187, 198, 1);text-align:center;text-transform:uppercase}@media (max-width: 370px){.module-info_blocks-263 .module-item .info-block .info-block-title{font-size:13px}}.module-info_blocks-263 .module-item-1 .info-block::before{content:\'\\eab9\' !important;font-family:icomoon !important;font-size:20px;color:rgba(46, 175, 35, 1)}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+    ),
+    'imageDimensions' => 
+    array (
+      'width' => NULL,
+      'height' => NULL,
+      'resize' => 'fill',
+    ),
+    'status' => true,
+    'id' => 'info_blocks-5f64d020a32ba',
+    'module_id' => 263,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-info_blocks',
+      2 => 'module-info_blocks-263',
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Free shipping on any order above $200.',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'content' => '',
+        'button' => false,
+        'id' => '263-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          2 => 'info-blocks',
+          3 => 'info-blocks-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

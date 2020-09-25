@@ -1,0 +1,178 @@
+<?php $val = array (
+  'css' => 'div.links-menu-76 .title.module-title{font-size:16px;color:rgba(245, 245, 245, 1);border-width:0px;padding:0px;margin-bottom:10px;white-space:normal;overflow:visible;text-overflow:initial}div.links-menu-76 .module-body{display:block;justify-content:flex-start;;-webkit-overflow-scrolling:touch}div.links-menu-76 .menu-item{border-width:1px 0 0 0;flex-grow:0}div.links-menu-76 .menu-item a .links-text{white-space:normal;color:rgba(187, 198, 221, 1)}div.links-menu-76 .menu-item
+a{padding-bottom:3px}div.links-menu-76 .menu-item a:hover .links-text{color:rgba(255, 255, 255, 1)}div.links-menu-76 .menu-item a::before{content:\'\\f105\' !important;font-family:icomoon !important;margin-right:5px}.phone footer  div.links-menu-76 .module-title::before{display:none}.phone footer  div.links-menu-76 .module-title+.module-body>li{display:flex}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => 'My Account',
+    'status' => true,
+    'id' => 'links-menu-5f64d02633f99',
+    'module_id' => 76,
+    'classes' => 
+    array (
+      0 => 'links-menu',
+      1 => 'links-menu-76',
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'My Account',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=account/account',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-1',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => 'Order History',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=account/order',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-2',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      3 => 
+      array (
+        'title' => 'Affiliates',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=affiliate/login',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-3',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      4 => 
+      array (
+        'title' => 'Newsletter',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=account/newsletter',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-4',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      5 => 
+      array (
+        'title' => 'Gift Certificates',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=account/voucher',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-5',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

@@ -1,0 +1,162 @@
+<?php $val = array (
+  'css' => '.module-blocks-175.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.module-blocks-175.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.one-column #content .module-blocks-175.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.one-column #content .module-blocks-175.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.two-column #content .module-blocks-175.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.two-column #content .module-blocks-175.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.side-column .module-blocks-175.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.side-column .module-blocks-175.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.module-blocks-175 .block-title{order:-2}.module-blocks-175 .block-header{display:flex;float:none;order:-1;justify-content:flex-start;align-items:flex-start}.module-blocks-175 .block-header
+img{display:flex}.module-blocks-175 .block-wrapper{display:flex}.module-blocks-175 .block-header
+i{float:none;display:flex}.module-blocks-175 .block-body{display:flex;flex-direction:column}.module-blocks-175 .module-item-1 .block-header{display:flex;float:none;order:-1;justify-content:flex-start;align-items:flex-start;margin-right:20px;margin-bottom:10px;margin-left:-60px}.module-blocks-175 .module-item-1 .block-header
+img{display:flex}.module-blocks-175 .module-item-1 .block-wrapper{display:flex}.module-blocks-175 .module-item-1 .block-header
+i{float:none;display:flex}.module-blocks-175 .module-item-1 .block-body{display:flex;flex-direction:row}.module-blocks-175 .module-item-1 .block-content{text-align:left;column-count:initial;column-gap:20px;column-rule-width:1px;column-rule-style:solid}.module-blocks-175 .module-item-1 .expand-content{overflow:hidden;max-height:285px}.module-blocks-175 .module-item-1 .block-expand::after{content:\'Read More\'}.module-blocks-175 .module-item-1 .block-expanded .block-expand::after{content:\'Show Less\'}.module-blocks-175 .module-item-1 .block-expand-overlay{background:linear-gradient(to bottom, transparent, rgba(255, 255, 255, 1))}.safari .module-blocks-175 .module-item-1 .block-expand-overlay{background:linear-gradient(to bottom, rgba(255,255,255,0), rgba(255, 255, 255, 1))}.iphone .module-blocks-175 .module-item-1 .block-expand-overlay{background:linear-gradient(to bottom, rgba(255,255,255,0), rgba(255, 255, 255, 1))}.ipad .module-blocks-175 .module-item-1 .block-expand-overlay{background:linear-gradient(to bottom, rgba(255,255,255,0), rgba(255, 255, 255, 1))}.module-blocks-175 .module-item-1 .block-footer
+.btn{width:auto;background:rgba(49, 56, 70, 1);padding:10px;border-radius:2px !important;transform:scale(calc(100 / 100));transform-origin:center}.module-blocks-175 .module-item-1 .block-footer{text-align:center}.module-blocks-175 .module-item-1 .block-footer .btn, .module-blocks-175 .module-item-1 .block-footer .btn:visited{font-size:13px;color:rgba(255, 255, 255, 1)}.module-blocks-175 .module-item-1 .block-footer .btn:hover{color:rgba(255, 255, 255, 1) !important;background:rgba(0, 138, 221, 1) !important}.module-blocks-175 .module-item-1 .block-footer .btn:active, .module-blocks-175 .module-item-1 .block-footer .btn:hover:active, .module-blocks-175 .module-item-1 .block-footer .btn:focus:active{color:rgba(245, 245, 245, 1) !important;background:rgba(9, 132, 207, 1) !important;box-shadow:inset 0 2px 8px rgba(0, 0, 0, 0.15)}.module-blocks-175 .module-item-1 .block-footer .btn:focus{color:rgba(255, 255, 255, 1) !important;background:rgba(0, 138, 221, 1);box-shadow:inset 0 0 20px rgba(0, 0, 0, 0.25)}.desktop .module-blocks-175 .module-item-1 .block-footer .btn:hover{box-shadow:0 5px 30px -5px rgba(0, 0, 0, 0.15)}.module-blocks-175 .module-item-1 .block-footer .btn.btn.disabled::after{font-size:20px}@media (max-width: 470px){.module-blocks-175 .module-item-1 .block-header{display:flex;float:none;order:-1;margin-right:0px;margin-left:0px}.module-blocks-175 .module-item-1 .block-header
+img{display:flex}.module-blocks-175 .module-item-1 .block-wrapper{display:flex}.module-blocks-175 .module-item-1 .block-header
+i{float:none;display:flex}.module-blocks-175 .module-item-1 .block-body{display:flex;flex-direction:column}}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'display' => 'grid',
+    'displayTablet' => '',
+    'displayPhone' => '',
+    'carousel' => false,
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+    ),
+    'default' => '',
+    'title' => '',
+    'imageDimensions' => 
+    array (
+      'width' => 200,
+      'height' => 250,
+      'resize' => 'fill',
+    ),
+    'status' => true,
+    'id' => 'blocks-5f64d02490d30',
+    'module_id' => 175,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-blocks',
+      2 => 'module-blocks-175',
+      3 => 'blocks-grid',
+      'carousel-mode' => false,
+    ),
+    'carouselOptions' => 
+    array (
+      'speed' => 0,
+      'autoplay' => false,
+      'pauseOnHover' => false,
+      'loop' => false,
+    ),
+    'default_index' => 0,
+    'items' => 
+    array (
+      1 => 
+      array (
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'header' => 'image',
+        'text' => '',
+        'contentType' => 'html',
+        'shortDescriptionLimit' => '150',
+        'dynamic' => 'journal3/blocks_example',
+        'expandButton' => true,
+        'footer' => 'none',
+        'footerText' => '',
+        'footerButton' => '',
+        'footerButtonLink' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '175-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'tab-pane' => false,
+          'active' => false,
+          'panel' => false,
+          'panel-active' => false,
+          'swiper-slide' => false,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-1',
+          'active' => false,
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+          'in' => false,
+        ),
+        'image' => 'http://localhost:8888/www.sacarujewels.com/image/cache/catalog/journal3/people/arm-200x250h.jpg',
+        'image2x' => 'http://localhost:8888/www.sacarujewels.com/image/cache/catalog/journal3/people/arm-400x500h.jpg',
+        'title' => '',
+        'content' => '<p></p><h3>About Us</h3>
+<h5>The best Opencart theme got better, a lot better.</h5>
+<p><span class="drop-cap">S</span>ince 2013, Journal has been the best selling and most loved OpenCart theme on the market. Now at version 3, it brings many new and revolutionary features such as an advanced page builder with 30+ multi-purpose modules that can be added on any page in any grid layout configuration, as well as the best possible customizable options for any area of your store.</p><p>Journal 3 also comes with fully customizable CSS options with the added possibility of setting each option differently on any breakpoint. This breakthrough feature will greatly enhance your design skills and allow you to create pixel perfect layouts at any screen width.</p><p>The new advanced Status mechanism allow you to set up modules and menus based on device, customer login status or customer groups.<br></p><blockquote>98% satisfaction rate within our more than 19,000 customers.</blockquote><p>The new Schedule feature&nbsp;allows you to display any module at specific dates in the future, or to disable any module automatically at a certain time and date. Imagine the possibilities and peace of mind...designing your promotional banners or sliders, or entire product modules that only show up on specific dates and are disabled automatically whenever you don\'t need them anymore.&nbsp;</p><p>These are just a few of the outstanding features available in the new Journal 3 framework, there are so many new options and possibilities that it will takes us a very long time to list them all.</p>',
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

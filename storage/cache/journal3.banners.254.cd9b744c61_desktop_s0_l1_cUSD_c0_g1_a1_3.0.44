@@ -1,0 +1,155 @@
+<?php $val = array (
+  'css' => '.module-banners-254 .module-item.swiper-slide{margin-right:20px;width:calc((100% - 0 * 20px) / 1 - 0.01px)}.module-banners-254 .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 1 - 0.01px)}.one-column #content .module-banners-254 .module-item.swiper-slide{margin-right:20px;width:calc((100% - 0 * 20px) / 1 - 0.01px)}.one-column #content .module-banners-254 .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 1 - 0.01px)}.two-column #content .module-banners-254 .module-item.swiper-slide{margin-right:20px;width:calc((100% - 0 * 20px) / 1 - 0.01px)}.two-column #content .module-banners-254 .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 1 - 0.01px)}.side-column .module-banners-254 .module-item.swiper-slide{margin-right:20px;width:calc((100% - 0 * 20px) / 1 - 0.01px)}.side-column .module-banners-254 .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 1 - 0.01px)}.module-banners-254 a
+img{transform:scale(1)}.desktop .module-banners-254 a:hover
+img{transform:scale(1.15)}.desktop .module-banners-254 .module-item:hover>a{box-shadow:5px 20px 40px rgba(0, 0, 0, 0.3)}.module-banners-254 .module-item>a::before{background:rgba(10, 55, 143, 0.4)}.module-banners-254 a::before{opacity:0}.desktop .module-banners-254 a:hover::before{opacity:1}.module-banners-254 .module-item>a::after{content:\'\\e954\' !important;font-family:icomoon !important}.module-banners-254 a::after{opacity:0}.desktop .module-banners-254 a:hover::after{opacity:1}.module-banners-254 a .banner-caption{display:none;width:auto}.module-banners-254 .banner-caption{top:auto;left:50%;right:auto;bottom:0;transform:translate3d(-50%, 0, 0)}.module-banners-254 .banner-caption
+span{transform:scale(calc(100 / 100));transform-origin:center;padding:5px;padding-right:15px;padding-left:15px}.module-banners-254 .banner-caption-2{visibility:hidden;opacity:0;display:block;top:auto;left:50%;right:auto;bottom:0;transform:translate3d(-50%, 0, 0)}.desktop .module-banners-254 a:hover .banner-caption-2{visibility:visible;opacity:1}.module-banners-254 a .banner-caption-2{width:100%}.module-banners-254 .banner-caption-2
+span{transform:scale(calc(100 / 100));transform-origin:center;padding:10px}@media (max-width: 760px){.module-banners-254 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 1 * 0px) / 2 - 0.01px)}.module-banners-254 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 2 - 0.01px)}.module-banners-254:not(.carousel-mode) .module-body{margin:10px;margin-top:0px;margin-bottom:0px}}.module-banners-254 .module-item-2>a{background:rgba(231, 40, 77, 1)}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => '',
+    'carousel' => false,
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 20,
+        ),
+        760 => 
+        array (
+          'items' => 2,
+          'spacing' => 0,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 20,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 20,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 20,
+        ),
+      ),
+    ),
+    'imageDimensions' => 
+    array (
+      'width' => 400,
+      'height' => 180,
+      'resize' => 'fill',
+    ),
+    'status' => true,
+    'id' => 'banners-5f64d0200e57a',
+    'module_id' => 254,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-banners',
+      2 => 'module-banners-254',
+      'carousel-mode' => false,
+    ),
+    'carouselOptions' => 
+    array (
+      'speed' => 0,
+      'autoplay' => false,
+      'pauseOnHover' => false,
+      'loop' => false,
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => '',
+        'title2' => '',
+        'title3' => '',
+        'alt' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '59',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '254-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'swiper-slide' => false,
+        ),
+        'image' => 'http://localhost:8888/www.sacarujewels.com/image/cache/catalog/journal3/banners/12-1-400x180h.jpg',
+        'image2x' => 'http://localhost:8888/www.sacarujewels.com/image/cache/catalog/journal3/banners/12-1-800x360h.jpg',
+        'text' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => '',
+        'title2' => '',
+        'title3' => '',
+        'alt' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '59',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '254-2',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-2',
+          'swiper-slide' => false,
+        ),
+        'image' => 'http://localhost:8888/www.sacarujewels.com/image/cache/catalog/journal3/banners/50-400x180w.png',
+        'image2x' => 'http://localhost:8888/www.sacarujewels.com/image/cache/catalog/journal3/banners/50-800x360w.png',
+        'text' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

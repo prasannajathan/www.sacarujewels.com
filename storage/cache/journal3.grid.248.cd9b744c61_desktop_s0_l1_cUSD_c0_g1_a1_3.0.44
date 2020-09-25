@@ -1,0 +1,109 @@
+<?php $val = array (
+  'css' => '.module-grid-248 .grid-row-1::before{display:block;left:0;width:100vw}.module-grid-248 .grid-row-1 .grid-col-1{width:33.33333333333333%;padding:20px}.module-grid-248 .grid-row-1 .grid-col-1 .grid-items{justify-content:flex-start}@media (max-width: 760px){.module-grid-248 .grid-row-1 .grid-col-1{width:100%}}.module-grid-248 .grid-row-1 .grid-col-2{width:33.33333333333333%}.module-grid-248 .grid-row-1 .grid-col-2 .grid-items{justify-content:flex-start}@media (max-width: 760px){.module-grid-248 .grid-row-1 .grid-col-2{width:100%}}.module-grid-248 .grid-row-1 .grid-col-3{width:33.33333333333333%}.module-grid-248 .grid-row-1 .grid-col-3 .grid-items{justify-content:flex-start}@media (max-width: 760px){.module-grid-248 .grid-row-1 .grid-col-3{width:100%}}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'name' => 'New Column',
+    'grid_classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-grid',
+      2 => 'module-grid-248',
+      3 => 'grid-rows',
+    ),
+    'rows' => 
+    array (
+      1 => 
+      array (
+        'classes' => 
+        array (
+          0 => 'grid-row',
+          1 => 'grid-row-1',
+        ),
+        'columns' => 
+        array (
+          1 => 
+          array (
+            'name' => 'New Column',
+            'classes' => 
+            array (
+              0 => 'grid-col',
+              1 => 'grid-col-1',
+            ),
+            'items' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-item',
+                  1 => 'grid-item-1',
+                ),
+                'item' => 
+                array (
+                  'id' => '251',
+                  'name' => 'Banners Top Home Copy Copy',
+                  'type' => 'banners',
+                ),
+              ),
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'New Column',
+            'classes' => 
+            array (
+              0 => 'grid-col',
+              1 => 'grid-col-2',
+            ),
+            'items' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-item',
+                  1 => 'grid-item-1',
+                ),
+                'item' => 
+                array (
+                  'id' => '254',
+                  'name' => 'Beauty / Bags Home Copy',
+                  'type' => 'banners',
+                ),
+              ),
+            ),
+          ),
+          3 => 
+          array (
+            'name' => 'New Column',
+            'classes' => 
+            array (
+              0 => 'grid-col',
+              1 => 'grid-col-3',
+            ),
+            'items' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-item',
+                  1 => 'grid-item-1',
+                ),
+                'item' => 
+                array (
+                  'id' => '252',
+                  'name' => 'Sample Banners Left Home',
+                  'type' => 'banners',
+                ),
+              ),
+            ),
+          ),
+        ),
+      ),
+    ),
+  ),
+);

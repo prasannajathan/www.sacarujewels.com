@@ -1,0 +1,365 @@
+<?php $val = array (
+  'css' => '.module-testimonials-180 .swiper-container{overflow:hidden}.module-testimonials-180 .swiper-buttons{display:none !important;top:50%;width:calc(100% - (-25px * 2));margin-top:-12px}.module-testimonials-180 .swiper-button-prev{left:0;right:auto;transform:translate(0, -50%)}.module-testimonials-180 .swiper-button-next{left:auto;right:0;transform:translate(0, -50%)}.module-testimonials-180 .swiper-buttons
+div{width:25px;height:25px;background:rgba(0, 138, 221, 1);box-shadow:0 5px 30px -5px rgba(0, 0, 0, 0.15)}.module-testimonials-180 .swiper-button-disabled{opacity:0}.module-testimonials-180 .swiper-buttons div::before{content:\'\\e5c4\' !important;font-family:icomoon !important;color:rgba(255, 255, 255, 1)}.module-testimonials-180 .swiper-buttons .swiper-button-next::before{content:\'\\e5c8\' !important;font-family:icomoon !important;color:rgba(255, 255, 255, 1)}.module-testimonials-180 .swiper-buttons div:not(.swiper-button-disabled):hover{background:rgba(49, 56, 70, 1)}.module-testimonials-180 .swiper-pagination{display:block;margin-bottom:-15px;left:50%;right:auto;transform:translateX(-50%)}.module-testimonials-180
+.swiper{padding-bottom:10px}.module-testimonials-180 .swiper-pagination-bullet{width:10px;height:10px;background-color:rgba(49, 56, 70, 1)}.module-testimonials-180 .swiper-pagination>span+span{margin-left:7px}.desktop .module-testimonials-180 .swiper-pagination-bullet:hover{background-color:rgba(231, 40, 77, 1)}.module-testimonials-180 .swiper-pagination-bullet.swiper-pagination-bullet-active{background-color:rgba(243, 109, 55, 1)}.module-testimonials-180 .swiper-pagination>span{border-radius:20px}.module-testimonials-180.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.module-testimonials-180.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.one-column #content .module-testimonials-180.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.one-column #content .module-testimonials-180.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.two-column #content .module-testimonials-180.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.two-column #content .module-testimonials-180.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.side-column .module-testimonials-180.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.side-column .module-testimonials-180.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.module-testimonials-180 .title.module-title{font-family:\'Roboto\';font-weight:700;font-size:26px;color:rgba(56, 68, 79, 1);text-align:left;text-transform:uppercase;text-decoration:none;border-width:0;border-bottom-width:1px;border-style:solid;border-color:rgba(221, 221, 221, 1);padding-bottom:7px;margin-bottom:15px;white-space:normal;overflow:visible;text-overflow:initial}.module-testimonials-180 .block-body{text-align:center}.module-testimonials-180 .nav-tabs > li > a, .module-testimonials-180 .nav-tabs > li.active > a, .module-testimonials-180 .nav-tabs > li.active > a:hover, .module-testimonials-180 .nav-tabs>li.active>a:focus{font-size:15px;color:rgba(56, 68, 79, 1);font-weight:700}.module-testimonials-180 .nav-tabs{border-width:0;border-bottom-width:1px;border-style:solid;border-color:rgba(0, 138, 221, 1);display:flex;justify-content:flex-start;flex-wrap:nowrap;overflow-x:auto;overflow-y:hidden;-webkit-overflow-scrolling:touch;;min-width:50px}.module-testimonials-180 .nav-tabs>li{border-width:0;border-bottom-width:2px;border-style:solid;border-color:rgba(0, 0, 0, 0);flex-grow:0}.desktop .module-testimonials-180 .nav-tabs>li:hover{border-color:rgba(0, 138, 221, 1)}.module-testimonials-180 .nav-tabs>li.active{border-color:rgba(0, 138, 221, 1)}.module-testimonials-180 .nav-tabs>li.active::after{display:none}.module-testimonials-180 .nav-tabs>li>a{justify-content:center;white-space:nowrap;padding:10px;padding-top:5px}.module-testimonials-180 .nav-tabs>li>a::before{color:rgba(0, 138, 221, 1);font-size:18px}.module-testimonials-180 .nav-tabs>li:last-child{margin-left:0}.module-testimonials-180 .mobile .nav-tabs{overflow-x:scroll}.module-testimonials-180 .nav-tabs::-webkit-scrollbar{-webkit-appearance:none;height:1px;height:2px;width:2px}.module-testimonials-180 .nav-tabs::-webkit-scrollbar-track{background-color:white}.module-testimonials-180 .nav-tabs::-webkit-scrollbar-thumb{background-color:#999;background-color:rgba(0, 138, 221, 1)}.module-testimonials-180 .tab-container::before{display:none}.module-testimonials-180 .tab-content{padding-top:15px}.module-testimonials-180 .tab-container{display:block}.module-testimonials-180 .tab-container .nav-tabs{flex-direction:row}.module-testimonials-180 .block-header{text-align:left}@media (max-width: 760px){.module-testimonials-180 .title.module-title{font-size:20px}}.module-testimonials-180 .module-item-1 .block-header{text-align:center}.module-testimonials-180 .module-item-1 .block-header i::before{content:\'\\e98f\' !important;font-family:icomoon !important}.module-testimonials-180 .module-item-1 .block-header
+i{width:70px;height:70px;background:rgba(255, 214, 0, 1);margin-top:10px;margin-bottom:10px;border-radius:50%}.module-testimonials-180 .module-item-1 .block-content{max-height:100% !important;overflow:visible !important;max-height:75px;overflow:hidden}.module-testimonials-180 .module-item-1 .block-expand::after{content:\'Show More\'}.module-testimonials-180 .module-item-1 .block-expanded + .block-expand-overlay .block-expand::after{content:\'Show Less\'}.module-testimonials-180 .module-item-1 .block-expand::before{content:\'\\f078\' !important;font-family:icomoon !important}.module-testimonials-180 .module-item-1 .block-expanded + .block-expand-overlay .block-expand::before{content:\'\\f077\' !important;font-family:icomoon !important}.module-testimonials-180 .module-item-1 .block-footer{font-size:18px;font-weight:700;font-style:italic;margin-top:10px;text-align:center}.module-testimonials-180 .module-item-1 .block-footer
+.btn{width:auto}.module-testimonials-180 .module-item-2 .block-header{text-align:center}.module-testimonials-180 .module-item-2 .block-header i::before{content:\'\\e98f\' !important;font-family:icomoon !important}.module-testimonials-180 .module-item-2 .block-header
+i{width:70px;height:70px;background:rgba(255, 214, 0, 1);margin-top:10px;margin-bottom:10px;border-radius:50%}.module-testimonials-180 .module-item-2 .block-content{max-height:100% !important;overflow:visible !important;max-height:75px;overflow:hidden}.module-testimonials-180 .module-item-2 .block-expand::after{content:\'Show More\'}.module-testimonials-180 .module-item-2 .block-expanded + .block-expand-overlay .block-expand::after{content:\'Show Less\'}.module-testimonials-180 .module-item-2 .block-expand::before{content:\'\\f078\' !important;font-family:icomoon !important}.module-testimonials-180 .module-item-2 .block-expanded + .block-expand-overlay .block-expand::before{content:\'\\f077\' !important;font-family:icomoon !important}.module-testimonials-180 .module-item-2 .block-footer{font-size:18px;font-weight:700;font-style:italic;margin-top:15px;text-align:center}.module-testimonials-180 .module-item-2 .block-footer
+.btn{width:auto}.module-testimonials-180 .module-item-3 .block-header{text-align:center}.module-testimonials-180 .module-item-3 .block-header i::before{content:\'\\e98f\' !important;font-family:icomoon !important}.module-testimonials-180 .module-item-3 .block-header
+i{width:70px;height:70px;background:rgba(255, 214, 0, 1);margin-top:10px;margin-bottom:10px;border-radius:50%}.module-testimonials-180 .module-item-3 .block-content{max-height:100% !important;overflow:visible !important;max-height:75px;overflow:hidden}.module-testimonials-180 .module-item-3 .block-expand::after{content:\'Show More\'}.module-testimonials-180 .module-item-3 .block-expanded + .block-expand-overlay .block-expand::after{content:\'Show Less\'}.module-testimonials-180 .module-item-3 .block-expand::before{content:\'\\f078\' !important;font-family:icomoon !important}.module-testimonials-180 .module-item-3 .block-expanded + .block-expand-overlay .block-expand::before{content:\'\\f077\' !important;font-family:icomoon !important}.module-testimonials-180 .module-item-3 .block-footer{font-size:18px;font-weight:700;font-style:italic;margin-top:15px;text-align:center}.module-testimonials-180 .module-item-3 .block-footer
+.btn{width:auto}.module-testimonials-180 .module-item-4 .block-header{text-align:center}.module-testimonials-180 .module-item-4 .block-header i::before{content:\'\\e98f\' !important;font-family:icomoon !important}.module-testimonials-180 .module-item-4 .block-header
+i{width:70px;height:70px;background:rgba(255, 214, 0, 1);margin-top:10px;margin-bottom:10px;border-radius:50%}.module-testimonials-180 .module-item-4 .block-content{max-height:100% !important;overflow:visible !important;max-height:75px;overflow:hidden}.module-testimonials-180 .module-item-4 .block-expand::after{content:\'Show More\'}.module-testimonials-180 .module-item-4 .block-expanded + .block-expand-overlay .block-expand::after{content:\'Show Less\'}.module-testimonials-180 .module-item-4 .block-expand::before{content:\'\\f078\' !important;font-family:icomoon !important}.module-testimonials-180 .module-item-4 .block-expanded + .block-expand-overlay .block-expand::before{content:\'\\f077\' !important;font-family:icomoon !important}.module-testimonials-180 .module-item-4 .block-footer{font-size:18px;font-weight:700;font-style:italic;margin-top:15px;text-align:center}.module-testimonials-180 .module-item-4 .block-footer
+.btn{width:auto}.module-testimonials-180 .module-item-5 .block-header{text-align:center}.module-testimonials-180 .module-item-5 .block-header i::before{content:\'\\e98f\' !important;font-family:icomoon !important}.module-testimonials-180 .module-item-5 .block-header
+i{width:70px;height:70px;background:rgba(255, 214, 0, 1);margin-top:10px;margin-bottom:10px;border-radius:50%}.module-testimonials-180 .module-item-5 .block-content{max-height:100% !important;overflow:visible !important;max-height:75px;overflow:hidden}.module-testimonials-180 .module-item-5 .block-expand::after{content:\'Show More\'}.module-testimonials-180 .module-item-5 .block-expanded + .block-expand-overlay .block-expand::after{content:\'Show Less\'}.module-testimonials-180 .module-item-5 .block-expand::before{content:\'\\f078\' !important;font-family:icomoon !important}.module-testimonials-180 .module-item-5 .block-expanded + .block-expand-overlay .block-expand::before{content:\'\\f077\' !important;font-family:icomoon !important}.module-testimonials-180 .module-item-5 .block-footer{font-size:18px;font-weight:700;font-style:italic;margin-top:15px;text-align:center}.module-testimonials-180 .module-item-5 .block-footer
+.btn{width:auto}',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Roboto' => 
+      array (
+        700 => '700',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+    ),
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'display' => 'grid',
+    'displayTablet' => '',
+    'displayPhone' => '',
+    'carousel' => true,
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+    ),
+    'default' => '',
+    'title' => 'What they say about us',
+    'imageDimensions' => 
+    array (
+      'width' => NULL,
+      'height' => NULL,
+      'resize' => 'fill',
+    ),
+    'status' => true,
+    'id' => 'testimonials-5f64d024c5d08',
+    'module_id' => 180,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-testimonials',
+      2 => 'module-testimonials-180',
+      3 => 'blocks-grid',
+      'carousel-mode' => true,
+    ),
+    'carouselOptions' => 
+    array (
+      'speed' => 500,
+      'autoplay' => 
+      array (
+        'delay' => 3000,
+      ),
+      'pauseOnHover' => true,
+      'loop' => false,
+    ),
+    'default_index' => 0,
+    'items' => 
+    array (
+      1 => 
+      array (
+        'header' => 'icon',
+        'contentType' => 'text',
+        'expandButton' => false,
+        'footer' => 'text',
+        'footerText' => '- charlibaltimore',
+        'footerButton' => '',
+        'footerButtonLink' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '180-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'tab-pane' => false,
+          'active' => false,
+          'panel' => false,
+          'panel-active' => false,
+          'swiper-slide' => true,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-1',
+          'active' => false,
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+          'in' => false,
+        ),
+        'image' => 'http://localhost:8888/www.sacarujewels.com/image/cache/placeholder-258x194.png',
+        'title' => NULL,
+        'content' => 'I\'ve purchased hundreds and hundreds of files over the past 7 years. But there is nothing close to this support and professionalism. Not only is theme, simple , useful and modern, but again the support is remarkable.  Very happy I got this theme! Thank you!',
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'header' => 'icon',
+        'contentType' => 'text',
+        'expandButton' => false,
+        'footer' => 'text',
+        'footerText' => '- chromebandit',
+        'footerButton' => '',
+        'footerButtonLink' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '180-2',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-2',
+          'tab-pane' => false,
+          'active' => false,
+          'panel' => false,
+          'panel-active' => false,
+          'swiper-slide' => true,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-2',
+          'active' => false,
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+          'in' => false,
+        ),
+        'image' => 'http://localhost:8888/www.sacarujewels.com/image/cache/placeholder-258x194.png',
+        'title' => NULL,
+        'content' => 'I am a web developer for many years i haven\'t seen anything clear clean coded like journal it makes my live so much easier thanks for the great work you have done.',
+        'items' => 
+        array (
+        ),
+      ),
+      3 => 
+      array (
+        'header' => 'icon',
+        'contentType' => 'text',
+        'expandButton' => false,
+        'footer' => 'text',
+        'footerText' => '- kellyhorne',
+        'footerButton' => '',
+        'footerButtonLink' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '180-3',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-3',
+          'tab-pane' => false,
+          'active' => false,
+          'panel' => false,
+          'panel-active' => false,
+          'swiper-slide' => true,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-3',
+          'active' => false,
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+          'in' => false,
+        ),
+        'image' => 'http://localhost:8888/www.sacarujewels.com/image/cache/placeholder-258x194.png',
+        'title' => NULL,
+        'content' => 'Great toolkit for Opencart. As a base platform, Opencart can be a nightmare to modify and get looking good. Journal takes away all the pain.',
+        'items' => 
+        array (
+        ),
+      ),
+      4 => 
+      array (
+        'header' => 'icon',
+        'contentType' => 'text',
+        'expandButton' => false,
+        'footer' => 'text',
+        'footerText' => '- TBNWorld',
+        'footerButton' => '',
+        'footerButtonLink' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '180-4',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-4',
+          'tab-pane' => false,
+          'active' => false,
+          'panel' => false,
+          'panel-active' => false,
+          'swiper-slide' => true,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-4',
+          'active' => false,
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+          'in' => false,
+        ),
+        'image' => 'http://localhost:8888/www.sacarujewels.com/image/cache/placeholder-258x194.png',
+        'title' => NULL,
+        'content' => 'This theme is just amazing. With the new version J3 everything has become much easier to adjust. It\'s indeed, as the author says, not possible to mention all the posibilities, because it\'s just to much. Great value for the price!',
+        'items' => 
+        array (
+        ),
+      ),
+      5 => 
+      array (
+        'header' => 'icon',
+        'contentType' => 'text',
+        'expandButton' => false,
+        'footer' => 'text',
+        'footerText' => '- sacredcirclegifts',
+        'footerButton' => '',
+        'footerButtonLink' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '180-5',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-5',
+          'tab-pane' => false,
+          'active' => false,
+          'panel' => false,
+          'panel-active' => false,
+          'swiper-slide' => true,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-5',
+          'active' => false,
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+          'in' => false,
+        ),
+        'image' => 'http://localhost:8888/www.sacarujewels.com/image/cache/placeholder-258x194.png',
+        'title' => NULL,
+        'content' => 'Amazing ways to customize so you dont end up with a site looking like everyone elses :) Unique sites are much better than clone sites, as they keep the customers interest and the bounce rate is alot lower. Great Job A++++++',
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

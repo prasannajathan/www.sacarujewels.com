@@ -1,0 +1,158 @@
+<?php $val = array (
+  'css' => '.module-blocks-260.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.module-blocks-260.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.one-column #content .module-blocks-260.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.one-column #content .module-blocks-260.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.two-column #content .module-blocks-260.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.two-column #content .module-blocks-260.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.side-column .module-blocks-260.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.side-column .module-blocks-260.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.module-blocks-260 .block-body{color:rgba(255, 255, 255, 1);padding:10px;padding-right:15px;padding-left:15px;display:flex;flex-direction:column}.module-blocks-260 .block-title{order:-2}.module-blocks-260 .block-header{display:flex;float:none;order:-1;justify-content:flex-start;align-items:flex-start}.module-blocks-260 .block-header
+img{display:flex}.module-blocks-260 .block-wrapper{display:flex}.module-blocks-260 .block-header
+i{float:none;display:flex}.module-blocks-260 .module-item-1 .block-body{line-height:1.3;color:rgba(245, 245, 245, 1);display:block}.module-blocks-260 .module-item-1 .block-header{display:block;float:left;;justify-content:flex-start;align-items:flex-start}.module-blocks-260 .module-item-1 .block-header
+img{display:flex}.module-blocks-260 .module-item-1 .block-wrapper{display:block}.module-blocks-260 .module-item-1 .block-header
+i{float:left;display:flex}.module-blocks-260 .module-item-1 .block-content{text-align:center;column-count:initial;column-gap:20px;column-rule-width:1px;column-rule-style:solid}.module-blocks-260 .module-item-1 .expand-content{max-height:100%;overflow:visible}.module-blocks-260 .module-item-1 .block-footer{margin-top:auto;margin-top:20px;text-align:center}.module-blocks-260 .module-item-1 .block-footer
+.btn{width:auto;background:rgba(0, 138, 221, 1);transform:scale(calc(100 / 100));transform-origin:center}.module-blocks-260 .module-item-1 .block-footer .btn:hover{background:rgba(46, 175, 35, 1) !important}.desktop .module-blocks-260 .module-item-1 .block-footer .btn:hover{box-shadow:0 5px 30px -5px rgba(0, 0, 0, 0.15)}.module-blocks-260 .module-item-1 .block-footer .btn:active, .module-blocks-260 .module-item-1 .block-footer .btn:hover:active, .module-blocks-260 .module-item-1 .block-footer .btn:focus:active{box-shadow:inset 0 2px 8px rgba(0, 0, 0, 0.15)}.module-blocks-260 .module-item-1 .block-footer .btn:focus{box-shadow:inset 0 0 20px rgba(0, 0, 0, 0.25)}.module-blocks-260 .module-item-1 .block-footer .btn.btn.disabled::after{font-size:20px}.module-blocks-260 .module-item-1 .block-footer .btn::after{content:\'\\e5c8\' !important;font-family:icomoon !important}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'display' => 'grid',
+    'displayTablet' => '',
+    'displayPhone' => '',
+    'carousel' => false,
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+    ),
+    'default' => '',
+    'title' => '',
+    'imageDimensions' => 
+    array (
+      'width' => NULL,
+      'height' => NULL,
+      'resize' => 'crop',
+    ),
+    'status' => true,
+    'id' => 'blocks-5f64d02522333',
+    'module_id' => 260,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-blocks',
+      2 => 'module-blocks-260',
+      3 => 'blocks-grid',
+      'carousel-mode' => false,
+    ),
+    'carouselOptions' => 
+    array (
+      'speed' => 0,
+      'autoplay' => false,
+      'pauseOnHover' => false,
+      'loop' => false,
+    ),
+    'default_index' => 0,
+    'items' => 
+    array (
+      1 => 
+      array (
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'header' => 'none',
+        'text' => '',
+        'contentType' => 'html',
+        'shortDescriptionLimit' => '150',
+        'dynamic' => 'journal3/blocks_example',
+        'expandButton' => false,
+        'footer' => 'button',
+        'footerText' => '',
+        'footerButton' => 'Shop Now',
+        'footerButtonLink' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '260-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'tab-pane' => false,
+          'active' => false,
+          'panel' => false,
+          'panel-active' => false,
+          'swiper-slide' => false,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-1',
+          'active' => false,
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+          'in' => false,
+        ),
+        'image' => 'http://localhost:8888/www.sacarujewels.com/image/cache/placeholder-258x194.png',
+        'image2x' => 'http://localhost:8888/www.sacarujewels.com/image/cache/placeholder-258x194.png',
+        'title' => '',
+        'content' => '<h3>Custom Menus</h3><p>Full width or custom width mega menu dropdowns with page builder support.</p>',
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

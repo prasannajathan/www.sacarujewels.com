@@ -1,0 +1,56 @@
+<?php $val = array (
+  'css' => '.module-newsletter-67 .title.module-title{font-size:16px;color:rgba(245,245,245,1);border-width:0px;padding:0px;margin-bottom:10px;white-space:normal;overflow:visible;text-overflow:initial}.module-newsletter-67{text-align:left;justify-content:flex-start}.module-newsletter-67 .module-body>div{align-self:flex-start}.module-newsletter-67 .title::after{left:0;right:auto;transform:none}.module-newsletter-67 .module-body{flex-direction:row}.module-newsletter-67 .newsletter-text{color:rgba(187, 198, 221, 1);padding-bottom:10px}.module-newsletter-67 .module-body .input-group{height:40px}.module-newsletter-67 .module-body .newsletter-form .input-group
+input{width:400px;max-width:100%}.module-newsletter-67 .module-body .form-control{background:rgba(255, 255, 255, 1) !important;border-width:5px !important;border-style:solid !important;border-color:rgba(245, 245, 245, 1) !important;border-radius:2px !important}.module-newsletter-67 .module-body .form-control:focus{box-shadow:inset 0 0 3px rgba(0, 0, 0, 0.15)}.module-newsletter-67 .btn::before{content:\'\\eb79\' !important;font-family:icomoon !important;margin-right:5px}.module-newsletter-67 .input-group .input-group-btn
+.btn{min-height:30px;height:30px}.module-newsletter-67 .input-group-btn
+.btn{transform:translateX(-4px);margin-top:4px}.module-newsletter-67 .checkbox
+label{color:rgba(187, 198, 221, 1)}.module-newsletter-67 .module-body .newsletter-form
+.checkbox{padding-top:5px}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => 'Newsletter',
+    'text' => 'Stay up to date with news and promotions by signing up for our newsletter',
+    'placeholder' => 'Your email',
+    'buttonType' => 'both',
+    'buttonText' => 'Send',
+    'tooltipStatus' => true,
+    'tooltipText' => 'Subscribe',
+    'tooltipPosition' => 'top',
+    'subscribedMessage' => 'You have been subscribed to our newsletter.',
+    'subscribedEmail' => true,
+    'subscribedEmailMessage' => 'Thank you for subscribing to our newsletter.',
+    'unsubscribeMessage' => 'You are already subscribed. Do you want to unsubscribe?',
+    'unsubscribedMessage' => 'You have been unsubscribed from our newsletter.',
+    'unsubscribedEmail' => true,
+    'unsubscribedEmailMessage' => 'We\'re sorry to see you go.',
+    'adminAlerts' => true,
+    'agree' => '3',
+    'captcha' => false,
+    'status' => true,
+    'id' => 'newsletter-5f64d0263751a',
+    'module_id' => 67,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-newsletter',
+      2 => 'module-newsletter-67',
+    ),
+    'action' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=journal3/newsletter/newsletter&amp;module_id=67',
+    'agree_data' => 
+    array (
+      'text' => 'I have read and agree to the <a href="http://localhost:8888/www.sacarujewels.com/index.php?route=information/information/agree&amp;information_id=3" class="agree"><b>Privacy Policy</b></a>',
+      'error' => 'Warning: You must agree to the Privacy Policy!',
+    ),
+    'items' => 
+    array (
+    ),
+  ),
+);

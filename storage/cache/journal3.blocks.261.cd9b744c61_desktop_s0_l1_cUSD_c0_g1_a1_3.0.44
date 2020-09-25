@@ -1,0 +1,158 @@
+<?php $val = array (
+  'css' => '.module-blocks-261.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.module-blocks-261.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.one-column #content .module-blocks-261.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.one-column #content .module-blocks-261.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.two-column #content .module-blocks-261.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.two-column #content .module-blocks-261.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.side-column .module-blocks-261.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.side-column .module-blocks-261.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.module-blocks-261 .title.module-title{font-size:28px;color:rgba(56, 68, 79, 1);text-align:center;border-width:0px;padding:0px;margin:0px;margin-bottom:10px;white-space:normal;overflow:visible;text-overflow:initial}.module-blocks-261 .block-body{padding:10px;padding-right:15px;padding-left:15px;display:flex;flex-direction:column}.module-blocks-261 .title.block-title{margin-bottom:30px}.module-blocks-261 .block-title{order:-2}.module-blocks-261 .block-header{display:flex;float:none;order:-1;justify-content:flex-start;align-items:flex-start}.module-blocks-261 .block-header
+img{display:flex}.module-blocks-261 .block-wrapper{display:flex}.module-blocks-261 .block-header
+i{float:none;display:flex}@media (max-width: 760px){.module-blocks-261 .title.module-title{font-size:22px}}.module-blocks-261 .module-item-1 .block-body{line-height:1.3;font-size:16px;color:rgba(221, 221, 221, 1);line-height:1.5;display:block}.module-blocks-261 .module-item-1 .module-title{font-size:32px;color:rgba(255, 255, 255, 1);text-align:center}.module-blocks-261 .module-item-1 .block-header{display:block;float:left;;justify-content:flex-start;align-items:flex-start}.module-blocks-261 .module-item-1 .block-header
+img{display:flex}.module-blocks-261 .module-item-1 .block-wrapper{display:block}.module-blocks-261 .module-item-1 .block-header
+i{float:left;display:flex}.module-blocks-261 .module-item-1 .block-content{text-align:center;column-count:initial;column-gap:20px;column-rule-width:1px;column-rule-style:solid}.module-blocks-261 .module-item-1 .expand-content{max-height:100%;overflow:visible}.module-blocks-261 .module-item-1 .block-footer{margin-top:auto;margin-top:40px;text-align:center}.module-blocks-261 .module-item-1 .block-footer
+.btn{width:auto;background:rgba(231, 40, 77, 1);padding:12px;padding-right:15px;padding-bottom:13px;padding-left:15px;min-width:40px;min-height:40px;transform:scale(calc(120 / 100));transform-origin:center}.module-blocks-261 .module-item-1 .block-footer .btn, .module-blocks-261 .module-item-1 .block-footer .btn:visited{font-size:15px}.module-blocks-261 .module-item-1 .block-footer .btn:hover{background:rgba(49, 56, 70, 1) !important}.module-blocks-261 .module-item-1 .block-footer .btn:active, .module-blocks-261 .module-item-1 .block-footer .btn:hover:active, .module-blocks-261 .module-item-1 .block-footer .btn:focus:active{background:rgba(0, 138, 221, 1) !important;box-shadow:inset 0 0 20px rgba(0, 0, 0, 0.25)}.module-blocks-261 .module-item-1 .block-footer .btn:focus{background:rgba(0, 138, 221, 1);box-shadow:inset 0 0 20px rgba(0, 0, 0, 0.25)}.desktop .module-blocks-261 .module-item-1 .block-footer .btn:hover{box-shadow:0 5px 30px -5px rgba(0, 0, 0, 0.25)}.module-blocks-261 .module-item-1 .block-footer .btn.btn.disabled::after{font-size:20px}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'display' => 'grid',
+    'displayTablet' => '',
+    'displayPhone' => '',
+    'carousel' => false,
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+    ),
+    'default' => '',
+    'title' => '',
+    'imageDimensions' => 
+    array (
+      'width' => NULL,
+      'height' => NULL,
+      'resize' => 'crop',
+    ),
+    'status' => true,
+    'id' => 'blocks-5f64d022af396',
+    'module_id' => 261,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-blocks',
+      2 => 'module-blocks-261',
+      3 => 'blocks-grid',
+      'carousel-mode' => false,
+    ),
+    'carouselOptions' => 
+    array (
+      'speed' => 0,
+      'autoplay' => false,
+      'pauseOnHover' => false,
+      'loop' => false,
+    ),
+    'default_index' => 0,
+    'items' => 
+    array (
+      1 => 
+      array (
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'header' => 'none',
+        'text' => '',
+        'contentType' => 'html',
+        'shortDescriptionLimit' => '150',
+        'dynamic' => 'journal3/blocks_example',
+        'expandButton' => false,
+        'footer' => 'button',
+        'footerText' => '',
+        'footerButton' => 'Shop Now',
+        'footerButtonLink' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '261-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'tab-pane' => false,
+          'active' => false,
+          'panel' => false,
+          'panel-active' => false,
+          'swiper-slide' => false,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-1',
+          'active' => false,
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+          'in' => false,
+        ),
+        'image' => 'http://localhost:8888/www.sacarujewels.com/image/cache/placeholder-258x194.png',
+        'image2x' => 'http://localhost:8888/www.sacarujewels.com/image/cache/placeholder-258x194.png',
+        'title' => 'End of Season Sale',
+        'content' => '<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&nbsp;<br></p>',
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

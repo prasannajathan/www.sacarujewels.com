@@ -1,0 +1,239 @@
+<?php $val = array (
+  'css' => 'footer>div{background:rgba(56, 68, 79, 1)}footer .grid-row-1{background:rgba(69, 82, 94, 1);padding:20px;padding-bottom:40px}footer .grid-row-1::before{display:block;left:0;width:100vw}footer .grid-row-1 .grid-col-1{width:100%}footer .grid-row-1 .grid-col-1 .grid-items{justify-content:flex-start}footer .grid-row-2::before{display:block;left:50%;width:100vw}footer .grid-row-2 .grid-col-1{width:25%;padding-top:40px;padding-right:20px;padding-bottom:20px}footer .grid-row-2 .grid-col-1 .grid-items{justify-content:center}@media (max-width: 1024px){footer .grid-row-2 .grid-col-1{width:50%}}@media (max-width: 760px){footer .grid-row-2 .grid-col-1{padding-bottom:0px}}@media (max-width: 470px){footer .grid-row-2 .grid-col-1{width:100%}}footer .grid-row-2 .grid-col-2{width:25%;padding:30px;padding-right:0px;padding-left:40px}footer .grid-row-2 .grid-col-2 .grid-items{justify-content:flex-start}@media (max-width: 1024px){footer .grid-row-2 .grid-col-2{width:50%}}@media (max-width: 760px){footer .grid-row-2 .grid-col-2{padding:30px;padding-top:20px;padding-bottom:0px}}@media (max-width: 470px){footer .grid-row-2 .grid-col-2{width:100%}}footer .grid-row-2 .grid-col-3{width:20%;padding:30px;padding-left:0px}footer .grid-row-2 .grid-col-3 .grid-items{justify-content:flex-start}@media (max-width: 1024px){footer .grid-row-2 .grid-col-3{width:50%}}@media (max-width: 760px){footer .grid-row-2 .grid-col-3{padding:30px;padding-top:20px;padding-bottom:0px}}@media (max-width: 470px){footer .grid-row-2 .grid-col-3{width:100%}}footer .grid-row-2 .grid-col-4{width:30%;padding:30px;padding-right:0px}footer .grid-row-2 .grid-col-4 .grid-items{justify-content:flex-start}@media (max-width: 1024px){footer .grid-row-2 .grid-col-4{width:50%}}@media (max-width: 760px){footer .grid-row-2 .grid-col-4{padding:30px;padding-top:20px}}@media (max-width: 470px){footer .grid-row-2 .grid-col-4{width:100%}}footer .grid-row-3{background:rgba(69, 82, 94, 1);padding:20px}footer .grid-row-3::before{display:block;left:0;width:100vw}footer .grid-row-3 .grid-col-1{width:33.33333333333333%}footer .grid-row-3 .grid-col-1 .grid-items{justify-content:center}@media (max-width: 470px){footer .grid-row-3 .grid-col-1{width:100%}}footer .grid-row-3 .grid-col-2{width:66.66666666666666%}footer .grid-row-3 .grid-col-2 .grid-items{justify-content:center}@media (max-width: 470px){footer .grid-row-3 .grid-col-2{width:100%;padding-top:10px;padding-bottom:10px}}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'footerType' => 'default',
+    'grid_classes' => 
+    array (
+      0 => 'grid-rows',
+    ),
+    'rows' => 
+    array (
+      1 => 
+      array (
+        'classes' => 
+        array (
+          0 => 'grid-row',
+          1 => 'grid-row-1',
+        ),
+        'columns' => 
+        array (
+          1 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-col',
+              1 => 'grid-col-1',
+            ),
+            'items' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-item',
+                  1 => 'grid-item-1',
+                ),
+                'item' => 
+                array (
+                  'id' => '39',
+                  'name' => 'Footer Products',
+                  'type' => 'side_products',
+                ),
+              ),
+            ),
+          ),
+        ),
+      ),
+      2 => 
+      array (
+        'classes' => 
+        array (
+          0 => 'grid-row',
+          1 => 'grid-row-2',
+        ),
+        'columns' => 
+        array (
+          1 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-col',
+              1 => 'grid-col-1',
+            ),
+            'items' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-item',
+                  1 => 'grid-item-1',
+                ),
+                'item' => 
+                array (
+                  'id' => '257',
+                  'name' => 'Footer Logo Block',
+                  'type' => 'blocks',
+                ),
+              ),
+              2 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-item',
+                  1 => 'grid-item-2',
+                ),
+                'item' => 
+                array (
+                  'id' => '61',
+                  'name' => 'Social Icons',
+                  'type' => 'icons_menu',
+                ),
+              ),
+            ),
+          ),
+          2 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-col',
+              1 => 'grid-col-2',
+            ),
+            'items' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-item',
+                  1 => 'grid-item-1',
+                ),
+                'item' => 
+                array (
+                  'id' => '75',
+                  'name' => 'Customer Service',
+                  'type' => 'links_menu',
+                ),
+              ),
+            ),
+          ),
+          3 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-col',
+              1 => 'grid-col-3',
+            ),
+            'items' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-item',
+                  1 => 'grid-item-1',
+                ),
+                'item' => 
+                array (
+                  'id' => '76',
+                  'name' => 'My Account',
+                  'type' => 'links_menu',
+                ),
+              ),
+            ),
+          ),
+          4 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-col',
+              1 => 'grid-col-4',
+            ),
+            'items' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-item',
+                  1 => 'grid-item-1',
+                ),
+                'item' => 
+                array (
+                  'id' => '67',
+                  'name' => 'New Newsletter ',
+                  'type' => 'newsletter',
+                ),
+              ),
+            ),
+          ),
+        ),
+      ),
+      3 => 
+      array (
+        'classes' => 
+        array (
+          0 => 'grid-row',
+          1 => 'grid-row-3',
+        ),
+        'columns' => 
+        array (
+          1 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-col',
+              1 => 'grid-col-1',
+            ),
+            'items' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-item',
+                  1 => 'grid-item-1',
+                ),
+                'item' => 
+                array (
+                  'id' => '77',
+                  'name' => 'Copyright',
+                  'type' => 'links_menu',
+                ),
+              ),
+            ),
+          ),
+          2 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-col',
+              1 => 'grid-col-2',
+            ),
+            'items' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-item',
+                  1 => 'grid-item-1',
+                ),
+                'item' => 
+                array (
+                  'id' => '228',
+                  'name' => 'Payments',
+                  'type' => 'icons_menu',
+                ),
+              ),
+            ),
+          ),
+        ),
+      ),
+    ),
+  ),
+);

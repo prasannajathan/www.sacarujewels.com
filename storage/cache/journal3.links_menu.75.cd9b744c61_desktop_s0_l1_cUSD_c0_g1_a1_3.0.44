@@ -1,0 +1,178 @@
+<?php $val = array (
+  'css' => 'div.links-menu-75 .title.module-title{font-size:16px;color:rgba(245, 245, 245, 1);border-width:0px;padding:0px;margin-bottom:10px;white-space:normal;overflow:visible;text-overflow:initial}div.links-menu-75 .module-body{display:block;justify-content:flex-start;;-webkit-overflow-scrolling:touch;;column-count:initial;column-gap:30px;column-rule-width:1px;column-rule-style:solid}div.links-menu-75 .menu-item{border-width:1px 0 0 0;flex-grow:0;justify-content:flex-start;width:auto}div.links-menu-75 .menu-item a .links-text{white-space:normal;color:rgba(187, 198, 221, 1)}div.links-menu-75 .menu-item
+a{justify-content:flex-start;width:auto;padding-bottom:3px}div.links-menu-75 .menu-item a:hover .links-text{color:rgba(255, 255, 255, 1)}div.links-menu-75 .menu-item a::before{content:\'\\f105\' !important;font-family:icomoon !important;margin-right:5px}div.links-menu-75 .count-badge{display:none}.phone footer  div.links-menu-75 .module-title::before{display:none}.phone footer  div.links-menu-75 .module-title+.module-body>li{display:flex}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => 'Customer Service',
+    'status' => true,
+    'id' => 'links-menu-5f64d0262f4bb',
+    'module_id' => 75,
+    'classes' => 
+    array (
+      0 => 'links-menu',
+      1 => 'links-menu-75',
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Contact',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=information/contact',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-1',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => 'Returns',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=account/return/add',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-2',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      3 => 
+      array (
+        'title' => 'Site Map',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=information/sitemap',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-3',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      4 => 
+      array (
+        'title' => 'Brands',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/manufacturer',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-4',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      5 => 
+      array (
+        'title' => 'Unlimited Links',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'http://localhost:8888/www.sacarujewels.com/index.php?route=product/manufacturer',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-5',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);
